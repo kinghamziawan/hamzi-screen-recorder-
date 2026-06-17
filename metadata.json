@@ -1,0 +1,6 @@
+{
+  "name": "Hamzi Screen Recorder",
+  "description": "A modern, professional screen recorder for Android featuring front-camera overlay, high-fidelity internal & mic audio, configurable quality preset profiles, and an integrated recordings manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
